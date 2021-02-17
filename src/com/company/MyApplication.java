@@ -9,10 +9,12 @@ public class MyApplication {
     private final UserController controller;
     private final Scanner scanner;
 
+    // asdfasdfasdfasdf
     public MyApplication(IUserRepository userRepository) {
         controller = new UserController(userRepository);
         scanner = new Scanner(System.in);
     }
+    // asdfasdfasdfasdf
 
     public void start() {
         while (true) {
