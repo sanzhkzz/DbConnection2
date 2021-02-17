@@ -10,7 +10,7 @@ import com.company.repositories.interfaces.ITrainRepository;
 import com.company.repositories.interfaces.IUserRepository;
 
 public class Main {
-
+/* Hello Sanzhar */
     public static void main(String[] args) {
 //        String connectionUrl = "jdbc:postgresql://localhost:5432/simpledb";
 //        Connection con = null;
