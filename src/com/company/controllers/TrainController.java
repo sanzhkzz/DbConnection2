@@ -22,7 +22,7 @@ public class TrainController {
 
         boolean created = repo.createTrain(train);
 
-        return (created ? "Train was created!" : "Train creation was failed!");
+        return (created ? "Train was created123!" : "Train creation was failed!");
     }
 
     public Train getTrain(int id) {
